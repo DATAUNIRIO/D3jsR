@@ -1,6 +1,6 @@
 ---
 title: "Interactivity in RMarkdown with D3.js"
-author: "James Curley"
+author: "Steven Dut-Ross"
 date: "December 30, 2016"
 output: html_document
 css: styles.css
@@ -16,6 +16,8 @@ Required to make the visualization below.  Files available at [GitHub here](http
  
 ----
 
+
+Este é um exemplo do D3 dentro do R Markdown
 
 ```{r,  results="asis", message=FALSE, warning=FALSE, echo=FALSE}
 library(jsonlite)
